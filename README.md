@@ -4,7 +4,7 @@ This article will guide you how to integrate RFID NFC Card Reader in your androi
 ## Getting Started
 RFID is the process by which items are uniquely identified using radio waves, and NFC is a specialized subset within the family of RFID technology. Specifically, NFC is a branch of High-Frequency (HF) RFID, and both operate at the 13.56 MHz frequency. NFC is designed to be a secure form of data exchange, and an NFC device is capable of being both an NFC reader and an NFC tag. This unique feature allows NFC devices to communicate peer-to-peer.
 
-### Prerequisites
+### Pre-requisites
 Before starting the integration you need to ready these three things:
 
 1. Android Basics
